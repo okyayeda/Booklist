@@ -1,0 +1,5 @@
+.book {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  margin: 3rem 0;
+}
